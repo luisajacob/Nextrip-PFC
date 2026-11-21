@@ -1,0 +1,393 @@
+{
+  "dimensoes": [
+    "cultura",
+    "historia",
+    "gastronomia",
+    "natureza",
+    "compras",
+    "vida_noturna"
+  ],
+  "origem": {
+    "id": "origem:usuario",
+    "nome": "Ponto de partida - São Paulo",
+    "lat": -23.5504,
+    "lon": -46.6339,
+    "duracao_min": 0
+  },
+  "atracoes": [
+    {
+      "id": "osm:node:6579501095",
+      "nome": "Abertura",
+      "categoria": "atracao",
+      "tags_osm": {
+        "tourism": "artwork",
+        "wikidata": "Q45052162"
+      },
+      "lat": -23.550307,
+      "lon": -46.6332494,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 0.067,
+      "vetor": {
+        "cultura": 0.65,
+        "historia": 0.45,
+        "gastronomia": 0.15,
+        "natureza": 0.35,
+        "compras": 0.15,
+        "vida_noturna": 0.1
+      },
+      "duracao_min": 50,
+      "url_osm": "https://www.openstreetmap.org/node/6579501095",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:node:3796304377",
+      "nome": "Galeria Florêncio",
+      "categoria": "compras",
+      "tags_osm": {
+        "shop": "mall"
+      },
+      "lat": -23.539687,
+      "lon": -46.6328046,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 1.197,
+      "vetor": {
+        "cultura": 0.1,
+        "historia": 0.05,
+        "gastronomia": 0.4,
+        "natureza": 0.05,
+        "compras": 1,
+        "vida_noturna": 0.2
+      },
+      "duracao_min": 35,
+      "url_osm": "https://www.openstreetmap.org/node/3796304377",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:node:14075338919",
+      "nome": "Arena B3",
+      "categoria": "cultura",
+      "tags_osm": {
+        "amenity": "theatre",
+        "website": "https://arenab3.com.br/#/"
+      },
+      "lat": -23.5456657,
+      "lon": -46.6342657,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 0.528,
+      "vetor": {
+        "cultura": 1,
+        "historia": 0.45,
+        "gastronomia": 0.1,
+        "natureza": 0.05,
+        "compras": 0.05,
+        "vida_noturna": 0.15
+      },
+      "duracao_min": 35,
+      "url_osm": "https://www.openstreetmap.org/node/14075338919",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:node:5627377671",
+      "nome": "Galeria Jaqueline Martins",
+      "categoria": "galeria",
+      "tags_osm": {
+        "tourism": "gallery"
+      },
+      "lat": -23.545799,
+      "lon": -46.648837,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 1.606,
+      "vetor": {
+        "cultura": 1,
+        "historia": 0.35,
+        "gastronomia": 0.1,
+        "natureza": 0.05,
+        "compras": 0.1,
+        "vida_noturna": 0.1
+      },
+      "duracao_min": 70,
+      "url_osm": "https://www.openstreetmap.org/node/5627377671",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:node:13644329464",
+      "nome": "Cafeteria São Bento",
+      "categoria": "gastronomia",
+      "tags_osm": {
+        "amenity": "cafe",
+        "opening_hours": "Mo-Fr 07:30-18:30; Sa 09:00-15:00; Su off"
+      },
+      "lat": -23.5454252,
+      "lon": -46.6335126,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 0.555,
+      "vetor": {
+        "cultura": 0.15,
+        "historia": 0.1,
+        "gastronomia": 1,
+        "natureza": 0.05,
+        "compras": 0.3,
+        "vida_noturna": 0.2
+      },
+      "duracao_min": 35,
+      "url_osm": "https://www.openstreetmap.org/node/13644329464",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:node:2157624155",
+      "nome": "Glória Imortal aos Fundadores de São Paulo",
+      "categoria": "historia",
+      "tags_osm": {
+        "historic": "monument",
+        "wikidata": "Q45052099",
+        "wikipedia": "pt:Glória imortal dos fundadores de São Paulo"
+      },
+      "lat": -23.5481348,
+      "lon": -46.6330584,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 0.266,
+      "vetor": {
+        "cultura": 0.8,
+        "historia": 1,
+        "gastronomia": 0.05,
+        "natureza": 0.05,
+        "compras": 0.05,
+        "vida_noturna": 0.05
+      },
+      "duracao_min": 35,
+      "url_osm": "https://www.openstreetmap.org/node/2157624155",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:node:9017110917",
+      "nome": "Sampa Sky",
+      "categoria": "mirante",
+      "tags_osm": {
+        "tourism": "viewpoint"
+      },
+      "lat": -23.5421507,
+      "lon": -46.63578,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 0.937,
+      "vetor": {
+        "cultura": 0.3,
+        "historia": 0.1,
+        "gastronomia": 0.05,
+        "natureza": 0.85,
+        "compras": 0.05,
+        "vida_noturna": 0.05
+      },
+      "duracao_min": 35,
+      "url_osm": "https://www.openstreetmap.org/node/9017110917",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:way:205784137",
+      "nome": "Casa da Imagem",
+      "categoria": "museu",
+      "tags_osm": {
+        "tourism": "museum",
+        "historic": "building",
+        "building": "yes",
+        "website": "https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/casa_da_imagem/",
+        "wikidata": "Q9698123",
+        "wikipedia": "pt:Casa Número Um"
+      },
+      "lat": -23.5483595375,
+      "lon": -46.632198875,
+      "tipo_coordenada": "media_vertices_way",
+      "distancia_origem_km_aprox": 0.286,
+      "vetor": {
+        "cultura": 1,
+        "historia": 0.85,
+        "gastronomia": 0.05,
+        "natureza": 0.05,
+        "compras": 0.05,
+        "vida_noturna": 0.05
+      },
+      "duracao_min": 70,
+      "url_osm": "https://www.openstreetmap.org/way/205784137",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:way:276897362",
+      "nome": "Largo do Pari",
+      "categoria": "parque",
+      "tags_osm": {
+        "leisure": "park"
+      },
+      "lat": -23.53987620526316,
+      "lon": -46.62721103157895,
+      "tipo_coordenada": "media_vertices_way",
+      "distancia_origem_km_aprox": 1.354,
+      "vetor": {
+        "cultura": 0.2,
+        "historia": 0.1,
+        "gastronomia": 0.05,
+        "natureza": 1,
+        "compras": 0.05,
+        "vida_noturna": 0.05
+      },
+      "duracao_min": 50,
+      "url_osm": "https://www.openstreetmap.org/way/276897362",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:way:329033171",
+      "nome": "A Casa das Ostras",
+      "categoria": "vida_noturna",
+      "tags_osm": {
+        "amenity": "pub"
+      },
+      "lat": -23.54120142,
+      "lon": -46.62930496,
+      "tipo_coordenada": "media_vertices_way",
+      "distancia_origem_km_aprox": 1.125,
+      "vetor": {
+        "cultura": 0.2,
+        "historia": 0.05,
+        "gastronomia": 0.35,
+        "natureza": 0.05,
+        "compras": 0.2,
+        "vida_noturna": 1
+      },
+      "duracao_min": 35,
+      "url_osm": "https://www.openstreetmap.org/way/329033171",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:node:3375718988",
+      "nome": "Condor",
+      "categoria": "atracao",
+      "tags_osm": {
+        "tourism": "artwork",
+        "wikidata": "Q45052169"
+      },
+      "lat": -23.5508437,
+      "lon": -46.6329208,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 0.111,
+      "vetor": {
+        "cultura": 0.65,
+        "historia": 0.45,
+        "gastronomia": 0.15,
+        "natureza": 0.35,
+        "compras": 0.15,
+        "vida_noturna": 0.1
+      },
+      "duracao_min": 50,
+      "url_osm": "https://www.openstreetmap.org/node/3375718988",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:node:6603297738",
+      "nome": "Galeria Genebra",
+      "categoria": "compras",
+      "tags_osm": {
+        "shop": "mall"
+      },
+      "lat": -23.5535724,
+      "lon": -46.6329445,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 0.366,
+      "vetor": {
+        "cultura": 0.1,
+        "historia": 0.05,
+        "gastronomia": 0.4,
+        "natureza": 0.05,
+        "compras": 1,
+        "vida_noturna": 0.2
+      },
+      "duracao_min": 35,
+      "url_osm": "https://www.openstreetmap.org/node/6603297738",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:node:2803936127",
+      "nome": "Teatro Experimental Anhembi Morumbi",
+      "categoria": "cultura",
+      "tags_osm": {
+        "amenity": "theatre",
+        "website": "https://www.teatroanhembimorumbi.com.br/"
+      },
+      "lat": -23.5503846,
+      "lon": -46.6110563,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 2.329,
+      "vetor": {
+        "cultura": 1,
+        "historia": 0.45,
+        "gastronomia": 0.1,
+        "natureza": 0.05,
+        "compras": 0.05,
+        "vida_noturna": 0.15
+      },
+      "duracao_min": 35,
+      "url_osm": "https://www.openstreetmap.org/node/2803936127",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:way:409182227",
+      "nome": "Itaú Cultural",
+      "categoria": "galeria",
+      "tags_osm": {
+        "tourism": "gallery",
+        "amenity": "arts_centre",
+        "building": "yes",
+        "website": "https://www.itaucultural.org.br/",
+        "wikidata": "Q10304263",
+        "wikipedia": "pt:Itaú Cultural"
+      },
+      "lat": -23.57051248181818,
+      "lon": -46.646098236363635,
+      "tipo_coordenada": "media_vertices_way",
+      "distancia_origem_km_aprox": 2.559,
+      "vetor": {
+        "cultura": 1,
+        "historia": 0.35,
+        "gastronomia": 0.1,
+        "natureza": 0.05,
+        "compras": 0.1,
+        "vida_noturna": 0.1
+      },
+      "duracao_min": 70,
+      "url_osm": "https://www.openstreetmap.org/way/409182227",
+      "origem_dado": "OpenStreetMap"
+    },
+    {
+      "id": "osm:node:11905492841",
+      "nome": "Espaço da Pizza",
+      "categoria": "gastronomia",
+      "tags_osm": {
+        "amenity": "restaurant"
+      },
+      "lat": -23.5580008,
+      "lon": -46.6304318,
+      "tipo_coordenada": "node_osm",
+      "distancia_origem_km_aprox": 0.916,
+      "vetor": {
+        "cultura": 0.15,
+        "historia": 0.1,
+        "gastronomia": 1,
+        "natureza": 0.05,
+        "compras": 0.3,
+        "vida_noturna": 0.2
+      },
+      "duracao_min": 35,
+      "url_osm": "https://www.openstreetmap.org/node/11905492841",
+      "origem_dado": "OpenStreetMap"
+    }
+  ],
+  "metadados": {
+    "fonte": "OpenStreetMap",
+    "via": "Subconjunto do extrato OSM para OSRM",
+    "cidade": "São Paulo",
+    "arquivo_origem": "dados\\SaoPaulo.osm.gz",
+    "processado_em_utc": "2026-11-09T15:24:20.402024+00:00",
+    "licenca": "ODbL 1.0",
+    "atribuicao": "© OpenStreetMap contributors",
+    "vetores": "heurísticos por categoria; não são embeddings treinados",
+    "duracoes": "estimativas heurísticas por categoria; não são tempos verificados",
+    "localizacao_way": "média de vértices, pode não coincidir com a entrada"
+  }
+}

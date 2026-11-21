@@ -1,0 +1,12 @@
+{
+  "nome": "Pessoa interessada em cultura e história",
+  "descricao": "Perfil hipotético para validar integração de preferências e roteirização.",
+  "vetor": {
+    "cultura": 0.95,
+    "historia": 0.85,
+    "gastronomia": 0.55,
+    "natureza": 0.1,
+    "compras": 0.1,
+    "vida_noturna": 0.05
+  }
+}
